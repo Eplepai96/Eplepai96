@@ -16,6 +16,15 @@ I like to improve on things I find challenging, and even though the learning cur
 * Finnsihed 1st year on Noroff, moving on to the next
 
 ## My skills
-[]
+* Technological
+    * HTML 
+    * JavaScript 
+    * CSS
+
+* Design
+    * Adobe XD
+    * Adobe Photoshop
+    * Adobe Illustrator
+
 
 
