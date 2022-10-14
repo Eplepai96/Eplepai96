@@ -12,8 +12,11 @@ I live in Sandefjord, Norway. I study front-end development at Noroff School of 
 
 I like to improve on things I find challenging, and even though the learning curve is pretty steep that way, I love to see the progress. I sometimes ask myself why I don't just keep studying and doing the things I'm already good at, but then I remember where I'd be if I always took the easy way out. 
 
+## Hobbies
+I love nature, and spend a lot of time outside. I like to fish and look for mushrooms, as well as hiking and outdoors activities. I also love gaming, and spend time in the evening playing Fortnite or Rocket League with friends and my partner. I have interest in fashion with focus on being environmentally friendly. Psychology is very interesting to me, and spend a decent amount of my free time reading studies on topics that concern or interest me. 
+
 ## Education
-* Finnsihed 1st year on Noroff, moving on to the next
+* Finnished 1st year on Noroff, moving on to the next
 
 ## My skills
 * Technological
